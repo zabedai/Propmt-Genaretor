@@ -1,0 +1,6 @@
+{
+  "name": "Stock Vector & JPG Prompt Studio",
+  "description": "Professional AI-powered commercial stock asset prompt and metadata generator for Adobe Stock, Shutterstock, Freepik, Vecteezy, and iStock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
